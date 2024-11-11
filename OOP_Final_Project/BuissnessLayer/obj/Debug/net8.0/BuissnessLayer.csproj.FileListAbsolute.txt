@@ -1,0 +1,22 @@
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\bin\Debug\net8.0\BuissnessLayer.deps.json
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\bin\Debug\net8.0\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\bin\Debug\net8.0\BuissnessLayer.pdb
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.AssemblyInfoInputs.cache
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.AssemblyInfo.cs
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\refint\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.pdb
+C:\Users\Colby\OneDrive\Desktop\Visual Studio Projects\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\ref\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\bin\Debug\net8.0\BuissnessLayer.deps.json
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\bin\Debug\net8.0\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\bin\Debug\net8.0\BuissnessLayer.pdb
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.AssemblyInfoInputs.cache
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.AssemblyInfo.cs
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\refint\BuissnessLayer.dll
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\BuissnessLayer.pdb
+C:\Users\Colby\OneDrive\Desktop\Old terms\Assignments\OOP_Final_Project\BuissnessLayer\obj\Debug\net8.0\ref\BuissnessLayer.dll
