@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6a73620c899b8ad8f6a8bbc3a0bd9b6ac1633b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
